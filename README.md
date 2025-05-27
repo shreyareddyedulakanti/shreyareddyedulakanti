@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Profile README for GitHub -->
 
-<!--
-**shreyareddyedulakanti/shreyareddyedulakanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Shreya Edulakanti</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  A passionate Web Developer specialized in building scalable cloud-native applications using modern JavaScript and AWS.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,spring,aws,git,github,mongodb,postgresql" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌐 I'm a **Web Developer** with hands-on experience in cloud platforms like **AWS**
+- 🛠️ Proficient in **JavaScript**, **React**, **Node.js**, and **Express.js**
+- 🔧 I love building **RESTful APIs**, **microservices**, and deploying full-stack apps to the cloud
+- 🎯 Always striving to build **responsive, accessible**, and **secure** web experiences
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shreyaedulakanti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:edulakanti.shreya25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
