@@ -2,18 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm Shreya Edulakanti</h1>
 
-<p align="center">
-  A passionate Web Developer specialized in building scalable cloud-native applications using modern JavaScript and AWS.
-</p>
-
 ---
 
 ## About Me
 
-- I'm a **Web Developer** with hands-on experience in cloud platforms like **AWS**
+<p align="center">
+  I am a passionate Web Developer who loves building user-friendly and scalable cloud-native applications. I enjoy exploring and turning ideas into real-world applications with modern technologies.
+</p>
+
+- Hands-on experience in cloud platforms like **AWS**
 - Proficient in **JavaScript**, **React**, **Node.js**, and **Express.js**
 - I love building **RESTful APIs**, **microservices**, and deploying full-stack apps to the cloud
 - Always striving to build **responsive, accessible**, and **secure** web experiences
+
+---
+  
+- 🌱 I’m currently learning **AI tools and NextJS**
+- 👯 I’m looking to collaborate on **open source projects**
+- 📫 How to reach me **edulakanti.shreya25@gmail.com**
 
 ---
 
