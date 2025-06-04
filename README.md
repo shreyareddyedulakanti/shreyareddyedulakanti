@@ -18,7 +18,7 @@
 ---
   
 - 🌱 I’m currently learning **AI tools and NextJS**
-- 👯 I’m looking to collaborate on **open source projects**
+- 🛠️👐💻 I’m looking to collaborate on **open source projects**
 - 📫 How to reach me **edulakanti.shreya25@gmail.com**
 
 ---
