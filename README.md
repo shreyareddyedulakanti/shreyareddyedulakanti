@@ -40,6 +40,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=flat&logo=next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### Databases
@@ -101,3 +102,4 @@
   </a> -->
 </p>
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=shreyareddyedulakanti.shreyareddyedulakanti&left_color=green&right_color=blue)
