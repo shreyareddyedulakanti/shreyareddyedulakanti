@@ -14,6 +14,7 @@
 - Proficient in **JavaScript**, **React**, **Node.js**, and **Express.js**
 - I love building **RESTful APIs**, **microservices**, and deploying full-stack apps to the cloud
 - Always striving to build **responsive, accessible**, and **secure** web experiences
+- Curious to find out new trends and innovations in the industry
 
 ---
   
