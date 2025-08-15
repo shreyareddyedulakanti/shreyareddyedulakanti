@@ -86,7 +86,7 @@
 ---
 
 ## Projects
-### Travel blog web full-stack web application. 
+### Travel blog web full-stack web application
 The application will allow users to create and view blog posts. Posts will not persist between sessions as no database will be used in this version of the application. I have used an object to hold the data along with one sample blog post.
 <br/>
 <a href="https://blog-web-application-8lzt.onrender.com/" title="Travel blog web full-stack web application" target="_blank">Live Demo</a>
