@@ -86,8 +86,10 @@
 ---
 
 ## Projects
-### Travel blog web full-stack web application. [🔗 Live Demo]([https://your-project-on-render.com](https://blog-web-application-8lzt.onrender.com/))
+### Travel blog web full-stack web application. 
 The application will allow users to create and view blog posts. Posts will not persist between sessions as no database will be used in this version of the application. I have used an object to hold the data along with one sample blog post.
+<br/>
+[🔗 Live Demo]([https://your-project-on-render.com](https://blog-web-application-8lzt.onrender.com/))
 
 ## GitHub Stats
 
