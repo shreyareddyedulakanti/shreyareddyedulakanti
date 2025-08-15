@@ -18,9 +18,9 @@
 
 ---
   
-- 🌱 I’m currently learning **AI tools and NextJS**
-- 🛠️👐💻 I’m looking to collaborate on **open source projects**
-- 📫 How to reach me **edulakanti.shreya25@gmail.com**
+- I’m currently learning **AI tools and NextJS**
+- I’m looking to collaborate on **open source projects**
+- How to reach me **edulakanti.shreya25@gmail.com**
 
 ---
 
@@ -84,6 +84,11 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 
 ---
+
+## Projects
+### Travel blog web full-stack web application. 
+The application will allow users to create and view blog posts. Posts will not persist between sessions as no database will be used in this version of the application. I have used an object to hold the data along with one sample blog post.
+[🔗 Live Demo]([https://your-project-on-render.com](https://blog-web-application-8lzt.onrender.com/))
 
 ## GitHub Stats
 
